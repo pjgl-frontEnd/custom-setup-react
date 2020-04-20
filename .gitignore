@@ -1,7 +1,7 @@
 
 # dependencies
 /node_modules
-
+/src/componentes
 # testing
 /coverage
 
