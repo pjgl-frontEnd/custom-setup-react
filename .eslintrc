@@ -1,9 +1,15 @@
 {
   "parser": "babel-eslint",
+
+  "parserOptions": {
+    "ecmaVersion": 8
+  },
   "env": {
     "browser": true,
     "mocha": true,
-    "jest": true
+    "jest": true,
+    "es6": true,
+    "worker": true
   },
   "extends": "airbnb",
   "globals": {

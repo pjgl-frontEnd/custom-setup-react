@@ -1,9 +1,9 @@
-import React from 'react'
-import ReactDom from 'react-dom'
-import App from './componentes/app'
+import React from 'react';
+import ReactDom from 'react-dom';
+import App from './componentes/App';
 
 
 ReactDom.render(
-  <React.Fragment>
+  <>
     <App />
-  </React.Fragment>, document.querySelector('#root'));
+  </>, document.querySelector('#root'));
