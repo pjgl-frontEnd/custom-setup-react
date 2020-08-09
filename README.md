@@ -1,4 +1,4 @@
-# Configuración Proyecto React con Webpack
+# React Project Configuration with Webpack
 
 Setting up a development environment from scratch for React, with Yarn and Webpack.
 
